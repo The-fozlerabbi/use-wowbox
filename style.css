@@ -1,0 +1,74 @@
+
+.main{
+    width: 100%;
+    height: 600px;
+    background: url(./assest/images/blob-scene-haikei.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+   
+}
+
+
+   
+.pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 9rem;
+}
+.name{
+    font-weight: 700;
+    font-size: 36px;
+}
+.address{
+    font-weight: 600;
+    font-size: 30px;
+}
+.learn{
+    font-weight: 400;
+    font-size: 30px;
+}
+.mail{
+    font-weight: 400;
+    font-size: 22px;
+}
+.number{
+    font-weight: 400;
+    font-size: 20px;
+}
+.one{
+    background: url(./assest/images/blob-haikei\ \(3\).png);
+    background-size: cover;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    height: 83px;
+    width: 130px;
+}
+.facebook {
+	height: 47px;
+	width: 57px;
+	margin-left: -5px;
+	border-radius: 50%;
+}
+.instagram {
+	height: 35px;
+	width: 35px;
+	margin-left: 13px;
+	margin-top: -4px;
+	border-radius: 50%;
+}
+.twiter {
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	margin-top: -72px;
+	margin-left: 18px;
+}
+.linkedin{
+    height: 35px;
+    width: 33px;
+    border-radius: 50%;
+    margin-left: -10px;
+
+}
